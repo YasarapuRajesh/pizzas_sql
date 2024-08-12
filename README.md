@@ -29,7 +29,7 @@ The database consists of the following tables:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yasarapurajesh/pizza-sales-database.git
+   git clone https://github.com/YasarapuRajesh/pizzas_sql.git
    cd pizza-sales-database
    ```
 
