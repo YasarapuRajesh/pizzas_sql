@@ -67,6 +67,3 @@ The database consists of the following tables:
   SELECT * FROM order_details WHERE order_id = 1;
   ```
   
-## Contact
-
-For any questions or issues, please reach out to (mailto:rajurajesh10121@gmail.com).
